@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Rolex Watch 1",
+        "price": 5200,
+        "image": "images/rollie1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Rolex Watch 2",
+        "price": 2400,
+        "image": "images/rollie2.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Rolex Watch 3",
+        "price": 4500,
+        "image": "images/rollie3.jpeg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Rolex Watch 4",
+        "price": 6000,
+        "image": "images/rollie4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Rolex Watch 5",
+        "price": 12000,
+        "image": "images/rollie5.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Rolex Watch 6",
+        "price": 7800,
+        "image": "images/rollie6.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Rolex Watch 7",
+        "price": 10000,
+        "image": "images/rollie7.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Rolex Watch 8",
+        "price": 6500,
+        "image": "images/rollie8.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Rolex Watch 9",
+        "price": 9000,
+        "image": "images/rollie9.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Rolex Watch 10",
+        "price": 15000,
+        "image": "images/rollie10.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Rolex Watch 11",
+        "price": 20000,
+        "image": "images/rollie11.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Rolex Watch 12",
+        "price": 21000,
+        "image": "images/rollie12.jpeg"
+    }
+]
